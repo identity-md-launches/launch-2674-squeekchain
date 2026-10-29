@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#fcf9f2"/>
+<g font-family="Arial, sans-serif" fill="#352b23"><text x="64" y="92" font-size="30" font-weight="700">squeekchain.</text>
+<text x="64" y="240" font-size="69" font-weight="700" letter-spacing="-3">Hamster</text>
+<text x="64" y="319" font-size="69" font-weight="700" letter-spacing="-3">Powered</text>
+<text x="64" y="398" font-size="69" font-weight="700" letter-spacing="-3" fill="#a65321">Blockchain</text>
+<path d="M67 414Q275 401 480 414" fill="none" stroke="#efa45c" stroke-width="5" stroke-linecap="round"/>
+<text x="67" y="484" font-size="23" fill="#756656">Tiny paws. Onchain footprints.</text>
+<text x="67" y="565" font-size="19" fill="#756656">Real hamster → Sensor → Ethereum → SQK</text></g>
+<svg x="615" y="88" width="560" height="458" viewBox="0 0 600 490" fill="none">
+              <title id="scene-title">Squeekchain 的仓鼠跑轮</title>
+              <desc id="scene-description">一只圆滚滚的仓鼠站在连接传感器的跑轮里，旁边有代表 Ethereum 和 SQK 的方块。此图为互动插画。</desc>
+              <ellipse cx="304" cy="444" rx="241" ry="18" fill="#eadfcb"/>
+              <path d="M274 332 238 436h117l-33-104" fill="#e8b57d" stroke="#533d31" stroke-width="3.5" stroke-linejoin="round"/>
+              <path d="M265 431h62M292 359l-16 49h36" stroke="#b67e4e" stroke-width="3" stroke-linecap="round"/>
+              <circle cx="296" cy="230" r="182" fill="#f6e9d0" stroke="#533d31" stroke-width="4"/>
+              <circle cx="296" cy="230" r="164" fill="#fcf9f2" stroke="#c68e5e" stroke-width="2.5"/>
+              <g class="wheel-spokes" stroke="#d6b68b" stroke-width="2.5">
+                <path d="M296 49v19M296 393v19M115 230h18M459 230h18M168 102l13 13M411 345l13 13M168 358l13-13M411 115l13-13M227 63l7 17M358 380l7 17M129 161l17 7M446 292l17 7M129 299l17-7M446 168l17-7M227 397l7-17M358 80l7-17"/>
+              </g>
+              <path d="M155 325c33 40 78 59 141 59s108-19 140-59" stroke="#b67e4e" stroke-width="3" stroke-linecap="round"/>
+              <path d="M176 338l-9 16m39 0-7 18m37-8-3 17m37-11-1 16m37-16 1 16m35-21 4 17m30-28 8 18m25-34 10 15" stroke="#b67e4e" stroke-width="3"/>
+              <circle cx="296" cy="230" r="8" fill="#e2c39a"/>
+              <g class="hamster-body">
+                <path d="M222 242c-30-25-20-60 2-58 17 1 26 21 24 41M330 214c4-25 17-43 34-37 25 9 17 43-8 56" fill="#d5a06b" stroke="#533d31" stroke-width="3.5"/>
+                <path d="M225 219c-18-18-12-30-3-26 9 4 11 17 10 23M346 211c5-18 12-27 20-22 10 8-1 23-12 25" fill="#e9b7a3"/>
+                <path d="M201 286c-6-47 16-86 67-93 62-9 98 30 105 80 24 13 31 36 16 54-15 19-56 24-100 24-50 0-90-13-93-36-1-12 0-18 5-29Z" fill="#dca66e" stroke="#533d31" stroke-width="3.5" stroke-linejoin="round"/>
+                <path d="M220 290c-3-35 18-62 40-61 11 1 16 18 29 17 17-1 18-17 29-18 25-2 49 33 45 63 18 5 24 19 12 30-16 17-52 19-86 19-40 0-72-12-73-26-1-10 0-17 4-24Z" fill="#fff5df"/>
+                <path d="M244 268c0-9 9-9 9 0M323 266c0-9 9-9 9 0" stroke="#533d31" stroke-width="4" stroke-linecap="round"/>
+                <ellipse cx="239" cy="286" rx="13" ry="8" fill="#e8a493"/><ellipse cx="338" cy="283" rx="13" ry="8" fill="#e8a493"/>
+                <path d="m282 279 9 5 8-6" fill="#b67e66" stroke="#533d31" stroke-width="2.5" stroke-linejoin="round"/>
+                <path d="M291 284v6m0 0c-6 10-14 5-15 1m15-1c6 10 14 5 16 0" stroke="#533d31" stroke-width="2.5" stroke-linecap="round"/>
+                <path d="M221 312c8-8 17-7 24-2M331 309c8-7 17-7 25-1" stroke="#b67e4e" stroke-width="3" stroke-linecap="round"/>
+                <path d="M232 339c-13 0-25 4-22 12 3 7 29 7 37-4M331 343c13-5 26-2 26 5 0 9-26 11-33 3" fill="#f0c8a2" stroke="#533d31" stroke-width="3" stroke-linejoin="round"/>
+                <path d="m191 276-21-3m20 16-25 3m207-21 22-5m-18 18 23 2" stroke="#533d31" stroke-width="2" stroke-linecap="round"/>
+                <path d="M277 204c4 2 6 6 7 10m5-13c4 2 7 7 7 11m6-10c4 3 5 7 5 11" stroke="#b67e4e" stroke-width="2.5" stroke-linecap="round"/>
+              </g>
+              <g stroke="#533d31" stroke-width="3" stroke-linejoin="round">
+                <rect x="111" y="299" width="39" height="48" rx="8" fill="#dce0c3" transform="rotate(-12 111 299)"/>
+                <circle cx="134" cy="311" r="5" fill="#748267" stroke="none"/>
+                <path d="m125 330 15-3"/>
+              </g>
+              <path d="M126 344c-18 21-21 45-58 46" stroke="#8c8366" stroke-width="2" stroke-dasharray="5 6" stroke-linecap="round"/>
+              <g stroke="#533d31" stroke-width="3" stroke-linejoin="round">
+                <path d="m434 101 52-22 42 24-52 24-42-26Z" fill="#f4dcb7"/>
+                <path d="m434 101 42 26v58l-42-26v-58Z" fill="#dfb78a"/>
+                <path d="m476 127 52-24v58l-52 24v-58Z" fill="#ead2b1"/>
+                <path d="m494 119 2 28 14-17-14-11Zm2 32 14-17-13 31-1-14Z" fill="#756b60" stroke="none"/>
+              </g>
+              <path d="m492 193 1 28m0 0-7-7m7 7 7-8" stroke="#ae8d66" stroke-width="2.5" stroke-linecap="round"/>
+              <g stroke="#533d31" stroke-width="3" stroke-linejoin="round">
+                <path d="m463 261 49-20 40 24-49 22-40-26Z" fill="#f2c684"/>
+                <path d="m463 261 40 26v58l-40-26v-58Z" fill="#d79356"/>
+                <path d="m503 287 49-22v58l-49 22v-58Z" fill="#e6ae6b"/>
+                <path d="m516 294 23-10m-21 20 16-7m-16 17 20-8" stroke="#85552f" stroke-width="2.5" stroke-linecap="round"/>
+              </g>
+              <path d="m66 190 5 13 13 5-13 5-5 13-5-13-13-5 13-5 5-13Zm454 174 5 12 12 5-12 5-5 12-5-12-12-5 12-5 5-12Z" fill="#e9bc72"/>
+              <path d="M92 423c-11-7-16-19-10-28 12 1 17 12 10 28Zm0 0c2-15 8-23 20-21 3 12-4 19-20 21Z" fill="#a9b58a" stroke="#748267" stroke-width="2"/>
+              <path d="M92 423v16" stroke="#748267" stroke-width="2.5" stroke-linecap="round"/>
+              <path d="m98 105 10-12m-5 28 15-3M390 40l5-11m10 18 11-5" stroke="#bca27b" stroke-width="2.5" stroke-linecap="round"/>
+            </svg>
+</svg>

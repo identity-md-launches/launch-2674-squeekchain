@@ -1,0 +1,81 @@
+- generic [ref=f3e1]:
+  - link "跳到主要内容" [ref=f3e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f3e3]:
+    - link "Squeekchain 首页" [ref=f3e4] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f3e13]: squeekchain.
+    - navigation "主要导航" [ref=f3e14]:
+      - link "常见问题" [ref=f3e15] [cursor=pointer]:
+        - /url: "#faq"
+        - text: 常见问题
+        - generic [aria-hidden] [ref=f3e16]: ↗
+  - main [ref=f3e17]:
+    - region [ref=f3e18]:
+      - generic [ref=f3e19]:
+        - heading "Squeekchain - Hamster Powered Blockchain" [level=1] [ref=f3e20]:
+          - generic [ref=f3e21]: Squeekchain -
+          - text: Hamster Powered
+          - generic [ref=f3e22]: Blockchain
+        - paragraph [ref=f3e23]: 小小的仓鼠，大大的链上冒险。
+        - paragraph [ref=f3e24]: 一只真实的仓鼠在跑轮上运动，传感器记录工作量后结算到 Ethereum，产生 Squeek blocks 并发行 SQK。
+        - link "看看它如何运转" [ref=f3e25] [cursor=pointer]:
+          - /url: "#how-it-works"
+      - generic [ref=f3e28]:
+        - img "Squeekchain 的仓鼠跑轮 一只圆滚滚的仓鼠站在连接传感器的跑轮里，旁边有代表 Ethereum 和 SQK 的方块。此图为互动插画。" [ref=f3e30]
+        - generic [ref=f3e74]:
+          - status [ref=f3e75]: 插画演示 · 跑轮转动中
+          - button "暂停跑轮" [active] [pressed] [ref=f3e179] [cursor=pointer]
+    - generic [ref=f3e81]:
+      - generic [ref=f3e82]: 真实的仓鼠
+      - generic [ref=f3e86]: 可记录的运动
+      - generic [ref=f3e89]: 链上的小小足迹
+    - region [ref=f3e92]:
+      - generic [ref=f3e94]:
+        - heading "每一圈，都有下一站。" [level=2] [ref=f3e95]
+        - paragraph [ref=f3e96]: 从跑轮到区块链，只需看懂这四步。
+      - list [ref=f3e97]:
+        - listitem [ref=f3e98]:
+          - generic [ref=f3e105]:
+            - generic [ref=f3e106]: "01"
+            - heading "仓鼠开跑" [level=3] [ref=f3e107]
+          - paragraph [ref=f3e108]: 一只真实的仓鼠，在跑轮上迈出小小的步伐。
+        - listitem [ref=f3e109]:
+          - generic [ref=f3e114]:
+            - generic [ref=f3e115]: "02"
+            - heading "传感器记录" [level=3] [ref=f3e116]
+          - paragraph [ref=f3e117]: 跑轮上的传感器，把运动变成可记录的工作量。
+        - listitem [ref=f3e118]:
+          - generic [ref=f3e124]:
+            - generic [ref=f3e125]: "03"
+            - heading "Ethereum 结算" [level=3] [ref=f3e126]
+          - paragraph [ref=f3e127]: 记录下来的工作量，随后结算到 Ethereum。
+        - listitem [ref=f3e128]:
+          - generic [ref=f3e135]:
+            - generic [ref=f3e136]: "04"
+            - heading "产生区块与 SQK" [level=3] [ref=f3e137]
+          - paragraph [ref=f3e138]: 产生 Squeek blocks 并发行 SQK，留下链上记录。
+    - region [ref=f3e139]:
+      - generic [ref=f3e152]:
+        - heading "认识 SQK， 小脚步的链上印记。" [level=2] [ref=f3e153]: 认识 SQK，小脚步的链上印记。
+        - paragraph [ref=f3e154]: SQK 是 Squeekchain 发行的代币。它和 Squeek blocks 一起，把跑轮上的真实运动连接到 Ethereum。
+        - paragraph [ref=f3e155]: 这是一页项目介绍。你可以轻松了解它，无需连接钱包。
+    - region [ref=f3e156]:
+      - generic [ref=f3e157]:
+        - heading "你可能也好奇" [level=2] [ref=f3e158]
+        - paragraph [ref=f3e159]: 关于这只仓鼠，和它的区块链。
+      - generic [ref=f3e160]:
+        - group [ref=f3e161]:
+          - generic "真的是一只真实的仓鼠吗？" [ref=f3e162] [cursor=pointer]
+        - group [ref=f3e164]:
+          - generic "跑轮上的运动如何上链？" [ref=f3e165] [cursor=pointer]
+        - group [ref=f3e167]:
+          - generic "Squeek blocks 和 SQK 有什么不同？" [ref=f3e168] [cursor=pointer]
+        - group [ref=f3e170]:
+          - generic "我需要连接钱包吗？" [ref=f3e171] [cursor=pointer]
+  - contentinfo [ref=f3e173]:
+    - link "squeekchain." [ref=f3e174] [cursor=pointer]:
+      - /url: "#"
+    - paragraph [ref=f3e175]: 小小脚步，圈圈向前。
+    - link "回到顶部" [ref=f3e176] [cursor=pointer]:
+      - /url: "#hero-title"

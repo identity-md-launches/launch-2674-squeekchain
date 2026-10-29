@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - link "跳到主要内容" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - link "Squeekchain 首页" [ref=e4] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=e13]: squeekchain.
+    - navigation "主要导航" [ref=e14]:
+      - link "工作原理" [ref=e15] [cursor=pointer]:
+        - /url: "#how-it-works"
+      - link "认识 SQK" [ref=e16] [cursor=pointer]:
+        - /url: "#sqk"
+      - link "常见问题" [ref=e17] [cursor=pointer]:
+        - /url: "#faq"
+        - text: 常见问题
+        - generic [aria-hidden] [ref=e18]: ↗
+  - main [ref=e19]:
+    - region [ref=e20]:
+      - generic [ref=e21]:
+        - heading "Squeekchain - Hamster Powered Blockchain" [level=1] [ref=e22]:
+          - generic [ref=e23]: Squeekchain -
+          - text: Hamster Powered
+          - generic [ref=e24]: Blockchain
+        - paragraph [ref=e25]: 小小的仓鼠，大大的链上冒险。
+        - paragraph [ref=e26]: 一只真实的仓鼠在跑轮上运动，传感器记录工作量后结算到 Ethereum，产生 Squeek blocks 并发行 SQK。
+        - link "看看它如何运转" [ref=e27] [cursor=pointer]:
+          - /url: "#how-it-works"
+        - generic [ref=e30]: 从真实的运动，到链上的记录
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - img "Squeekchain 的仓鼠跑轮 一只圆滚滚的仓鼠站在连接传感器的跑轮里，旁边有代表 Ethereum 和 SQK 的方块。此图为互动插画。" [ref=e36]
+          - generic [ref=e80]: 小小的努力，也被记录
+        - generic [ref=e82]:
+          - status [ref=e83]: 插画演示 · 跑轮休息中
+          - button "转动跑轮" [ref=e84] [cursor=pointer]
+    - generic "Squeekchain 的三个部分" [ref=e88]:
+      - generic [ref=e89]:
+        - generic [ref=e90]: 真实的仓鼠
+        - generic [aria-hidden] [ref=e94]: +
+        - generic [ref=e95]: 可记录的运动
+        - generic [aria-hidden] [ref=e98]: =
+        - generic [ref=e99]: 链上的小小足迹
+    - region [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - heading "每一圈，都有下一站。" [level=2] [ref=e105]
+          - paragraph [ref=e106]: 从跑轮到区块链，只需看懂这四步。
+        - generic [ref=e107]:
+          - generic [aria-hidden] [ref=e108]: ↘
+          - text: 跟着小脚步走
+      - list [ref=e109]:
+        - listitem [ref=e110]:
+          - generic [ref=e117]:
+            - generic [ref=e118]: "01"
+            - heading "仓鼠开跑" [level=3] [ref=e119]
+          - paragraph [ref=e120]: 一只真实的仓鼠，在跑轮上迈出小小的步伐。
+          - text: →
+        - listitem [ref=e121]:
+          - generic [ref=e126]:
+            - generic [ref=e127]: "02"
+            - heading "传感器记录" [level=3] [ref=e128]
+          - paragraph [ref=e129]: 跑轮上的传感器，把运动变成可记录的工作量。
+          - text: →
+        - listitem [ref=e130]:
+          - generic [ref=e136]:
+            - generic [ref=e137]: "03"
+            - heading "Ethereum 结算" [level=3] [ref=e138]
+          - paragraph [ref=e139]: 记录下来的工作量，随后结算到 Ethereum。
+          - text: →
+        - listitem [ref=e140]:
+          - generic [ref=e147]:
+            - generic [ref=e148]: "04"
+            - heading "产生区块与 SQK" [level=3] [ref=e149]
+          - paragraph [ref=e150]: 产生 Squeek blocks 并发行 SQK，留下链上记录。
+    - region [ref=e151]:
+      - generic [ref=e152]:
+        - generic [ref=e164]:
+          - heading "认识 SQK， 小脚步的链上印记。" [level=2] [ref=e165]: 认识 SQK，小脚步的链上印记。
+          - paragraph [ref=e166]: SQK 是 Squeekchain 发行的代币。它和 Squeek blocks 一起，把跑轮上的真实运动连接到 Ethereum。
+          - paragraph [ref=e167]: 这是一页项目介绍。你可以轻松了解它，无需连接钱包。
+        - generic [aria-hidden] [ref=e168]:
+          - text: SQK
+          - generic [ref=e169]: ↗
+    - region [ref=e170]:
+      - generic [ref=e171]:
+        - heading "你可能也好奇" [level=2] [ref=e172]
+        - paragraph [ref=e173]: 关于这只仓鼠，和它的区块链。
+      - generic [ref=e174]:
+        - group [ref=e175]:
+          - generic "真的是一只真实的仓鼠吗？" [ref=e176] [cursor=pointer]
+        - group [ref=e178]:
+          - generic "跑轮上的运动如何上链？" [ref=e179] [cursor=pointer]
+        - group [ref=e181]:
+          - generic "Squeek blocks 和 SQK 有什么不同？" [ref=e182] [cursor=pointer]
+        - group [ref=e184]:
+          - generic "我需要连接钱包吗？" [ref=e185] [cursor=pointer]
+  - contentinfo [ref=e187]:
+    - link "squeekchain." [ref=e188] [cursor=pointer]:
+      - /url: "#"
+    - paragraph [ref=e189]: 小小脚步，圈圈向前。
+    - link "回到顶部" [ref=e190] [cursor=pointer]:
+      - /url: "#hero-title"
+      - text: 回到顶部
+      - generic [aria-hidden] [ref=e191]: ↑
